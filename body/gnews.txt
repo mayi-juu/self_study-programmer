@@ -1,0 +1,5 @@
+
+https://news.google.com/?tab=nn
+https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://news.google.com/topstories?tab%3Dnn%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&followup=https://news.google.com/topstories?tab%3Dnn%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&ec=GAZAqgM
+https://play.google.com/store/apps/details?id=com.google.android.apps.magazines&referrer=news.google.com?utm_source=web&utm_medium=menu&utm_campaign=side_menu_promotion
+https://support.google.com/googlenews?p=web&hl=en-US&authuser=0
